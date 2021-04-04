@@ -1,0 +1,68 @@
+body {
+  font-size: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #eeeeee;
+}
+
+
+
+.btn-outline-dark {
+  border-radius: 35px;
+  font-size: 10px;
+  box-shadow: none;
+}
+
+.col-md-3 {
+  margin-top: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: #333333;
+  font-size: 6rem;
+  font-weight: bold;
+  letter-spacing: -5px;
+}
+
+h2 {
+  text-align: center;
+  color: #333333;
+  font-size: 1rem;
+  margin-bottom: 2em;
+  font-style: italic;
+}
+
+.card a:hover {
+  opacity: 0.9;
+  color: #ffffff !important;
+}
+
+.btn-github {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.btn-discord {
+  background-color: #7289da;
+  color: #ffffff;
+}
+
+.btn-twitter {
+  background-color: #00acee;
+  color: #ffffff;
+}
+
+.btn-trello {
+  background-color: #0079bf;
+  color: #ffffff;
+}
+
+.footer,
+.footer a {
+  text-decoration: none;
+  color: #797979;
+  outline: 0;
+}
+
+div.footer a:hover {
+  color: #333333 !important;
+}
